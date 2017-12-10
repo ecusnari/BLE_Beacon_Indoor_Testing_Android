@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Beacons Test App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="building">Building</string>
+    <string name="floor">Floor</string>
+    <string name="floor_nr"> </string>
+    <string name="position">Position ID: </string>
+    <string name="positionLabel">Test Position ID: </string>
+    <string name="buildingLabel">Building: </string>
+    <string name="floorLabel">Floor: </string>
+    <string name="defaultEmpty"> </string>
+    <string name="runTest">Run Test for 10 seconds</string>
+    <string name="runTestButton">Run Test</string>
+    <string name="chronometerDefault">00:00</string>
+    <string name="updateButtonDefault">Start</string>
+    <string name="infoLabelDetectorActivity">Status: Detecting Beacons &#8230;</string>
+    <string name="majorLabel">Major:</string>
+    <string name="minorLabel">Minor:</string>
+    <string name="RSSILabel">RSSI:</string>
+    <string name="defaultNumber">###</string>
+    <string name="buttonStartTestActivity">New Test</string>
+    <string name="testResults">Test Results:</string>
+    <string name="numBeacons">Beacons:</string>
+    <string name="numSignals">Beacon signals: </string>
+    <string name="defaultBeaconsNumber"> </string>
+    <string name="testResultsButton">See Results</string>
+    <string name="testLocIDLabel">Test Location ID: </string>
+    <string name="choseBuilding">Choose the building:</string>
+    <string name="choseFloor">Choose the floor:</string>
+    <string name="chosePosition">Choose the test position:</string>
+    <string name="testStarted">Test Started&#8230;</string>
+</resources>

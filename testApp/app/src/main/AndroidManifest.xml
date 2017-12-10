@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ecusnari.testapp">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+
+        android:theme="@style/AppTheme">
+        <activity android:name=".Login_MainActivity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BuildingList.BuildingListActivity"
+            android:parentActivityName=".Login_MainActivity.MainActivity"/>
+        <activity
+            android:name=".FloorList.FloorListActivity"
+            android:parentActivityName=".BuildingList.BuildingListActivity"/>
+        <activity
+            android:name=".PositionList.PositionListActivity"
+            android:parentActivityName=".FloorList.FloorListActivity"/>
+        <activity
+            android:name=".Test.TestActivity"
+            android:parentActivityName=".DetectedList.DetectorActivity"/>
+        <activity
+            android:name=".DetectedList.DetectorActivity"
+            android:parentActivityName=".PositionList.PositionListActivity"/>
+    </application>
+
+</manifest>
