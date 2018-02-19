@@ -1,5 +1,5 @@
 # Indoor Beacon Testing Application for Android
-This repository contains an Android Mobile Application that tests the beacons installed on the Illinois Institute of Technology campus, and stores the test data on the project server. The mobile application uses BOSSA Platform APIs.
+This repository contains an Android Mobile Application that tests the BLE beacons installed indoors, and stores the test data on the project server. The mobile application uses BOSSA Platform APIs.
 
 Table of contents
 =================
@@ -20,6 +20,8 @@ Table of contents
 <!--te-->
 
 ## About
+
+The BLE Beacon Indoor Testing Application for Android is part of the bigger project lead by the [IIT Real-Time Communications Lab](https://appliedtech.iit.edu/rtc-lab) at Illinois Institute of Technology.
 
 ## Features
 
