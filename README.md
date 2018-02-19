@@ -8,7 +8,7 @@ Table of contents
    * [About](#about)
    * [Features](#features)
    * [Screenshots](#screenshots)
-   * [Type of Beacon devices detected](#type-of-beacons-devices-detected)
+   * [Type of Beacon devices detected](#type-of-beacon-devices-detected)
    * [Getting Started](#getting-started)
       * [Prerequisites](#prerequisites)
       * [Installation](#installation)
