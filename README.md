@@ -5,12 +5,17 @@ Table of contents
 =================
 
 <!--ts-->
+   * [About](#about)
+   * [Features](#features)
+   * [Screenshots](#screenshots)
+   * [Type of Beacon devices detected](#type-of-beacons-devices-detected)
    * [Getting Started](#getting-started)
       * [Prerequisites](#prerequisites)
       * [Installation](#installation)
       * [Deployment](#deployment)
    * [How to use](#how-to-use)
    * [Acknowledgements](#acknowledgements)
+   * [Contact](#contact)
    * [License](#license)
 <!--te-->
 
@@ -20,7 +25,21 @@ Table of contents
 
 ## Screenshots
 
-## Beacons devices detected
+## Type of Beacon devices detected
+
+## Getting Started
+
+#### Prerequisites
+
+#### Installation
+
+#### Deployment
+
+## How to use
+
+## Acknowledgements
+* [Carol Davids](https://appliedtech.iit.edu/people/carol-davids) for creating this amazing project and platform
+* [Enzo Piacenza](https://www.linkedin.com/in/enzo-piacenza-b21706128/) for being a great mentor and guiding our projects with skill
 
 ## Contact
 [Erica Cusnariov](https://www.linkedin.com/in/ericacusnariov/) for questions about this repository
