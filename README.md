@@ -25,17 +25,12 @@ The BLE Beacon Indoor Testing Application for Android is part of the bigger proj
 This particular repository contains only the code designed and developed by me to test the installed BLE beacons for correct signal transmittion, safe storage and reliable UX for the project participant conducting the tests.
 
 ## Features
-[x] Tester has to authenticate to receive access to the allocated positions for testing
-
-[x] Tester can choose the building in which the BLE beacons are tested
-
-[x] Tester can choose the floor on which the BLE beacons are tested
-
-[x] Tester can choose the position around which the BLE beacons are tested
-
-[x] Tester can see the real-time collected BLE beacon signals
-
-[x] Tester receives the confirmation of successful test data being stored
+- [x] Tester has to authenticate to receive access to the allocated positions for testing
+- [x] Tester can choose the building in which the BLE beacons are tested
+- [x] Tester can choose the floor on which the BLE beacons are tested
+- [x] Tester can choose the position around which the BLE beacons are tested
+- [x] Tester can see the real-time collected BLE beacon signals
+- [x] Tester receives the confirmation of successful test data being stored
 
 ![Happy Flow](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/happyFlow.png?raw=true)
 
