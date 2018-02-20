@@ -39,6 +39,9 @@ This particular repository contains only the code designed and developed by me t
 
 ## Type of Beacon devices detected
 
+#### AXAET PC037 Bluetooth Beacon
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/beaconType.png" width="249" height="253" title="Beacon Type">
+
 ## Getting Started
 
 #### Prerequisites
