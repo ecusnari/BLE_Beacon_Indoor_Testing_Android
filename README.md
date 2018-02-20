@@ -21,11 +21,23 @@ Table of contents
 
 ## About
 
-The BLE Beacon Indoor Testing Application for Android is part of the bigger project lead by the [IIT Real-Time Communications Lab](https://appliedtech.iit.edu/rtc-lab) at Illinois Institute of Technology.
+The BLE Beacon Indoor Testing Application for Android is part of the bigger project lead by the [IIT Real-Time Communications Lab(IIT RTC Lab)](https://appliedtech.iit.edu/rtc-lab) at Illinois Institute of Technology. IIT RTC Lab parent project has the long term goal of developing an emergency response platform for dispatchers to locate potential victims during an emergency incidence indoors. The key concept of the emergency platform implies using hundreds of BLE beacons installed on every floor of a building, which would communicate with the victim's mobile device which would send the location, humidity and temperature information transmitted from the BLE beacons.
+This particular repository contains only the code designed and developed by me to test the installed BLE beacons for correct signal transmittion, safe storage and reliable UX for the project participant conducting the tests.
 
 ## Features
+[x] Tester has to authenticate to receive access to the allocated positions for testing
+[x] Tester can choose the building in which the BLE beacons are tested
+[x] Tester can choose the floor on which the BLE beacons are tested
+[x] Tester can choose the position around which the BLE beacons are tested
+[x] Tester can see the real-time collected BLE beacon signals
+[x] Tester receives the confirmation of successful test data being stored
+
+![Happy Flow](https://raw.githubusercontent.com/illustrations/happyFlow.png)
 
 ## Screenshots
+
+
+
 
 ## Type of Beacon devices detected
 
