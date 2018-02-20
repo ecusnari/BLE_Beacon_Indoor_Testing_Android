@@ -35,12 +35,11 @@ This particular repository contains only the code designed and developed by me t
 ![Happy Flow](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/happyFlow.png?raw=true)
 
 ## Screenshots
-<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/1Login.png" width="256" height="256" title="Login Page">
-
-![Login Page Error](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/2Login_Error.png)
-![Positions_List](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/3Positions_List.png)
-![Test Page](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/4Test_Page.png)
-![List Results](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/5List_Results.png)
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/1Login.png" width="108" height="192" title="Login Page">
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/2Login_Error.png" width="108" height="192" title="Login Page Error">
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/3Positions_List.png" width="108" height="192" title="Positions_List">
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/4Test_Page.png" width="108" height="192" title="Test Page">
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/5List_Results.png" width="108" height="192" title="List Results">
 
 ## Type of Beacon devices detected
 
