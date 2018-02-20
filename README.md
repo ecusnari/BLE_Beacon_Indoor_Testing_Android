@@ -32,12 +32,10 @@ This particular repository contains only the code designed and developed by me t
 [x] Tester can see the real-time collected BLE beacon signals
 [x] Tester receives the confirmation of successful test data being stored
 
-![Happy Flow](https://raw.githubusercontent.com/illustrations/happyFlow.png)
+![Happy Flow](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/happyFlow.png?raw=true)
 
 ## Screenshots
-
-
-
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/1Login.png" width="216" height="384" title="Login Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/2Login_Error.png" width="216" height="384" title="Login Page Error"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/3Positions_List.png" width="216" height="384" title="Positions_List"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/4Test_Page.png" width="216" height="384" title="Test Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/5List_Results.png" width="216" height="384" title="List Results">
 
 ## Type of Beacon devices detected
 
