@@ -26,10 +26,15 @@ This particular repository contains only the code designed and developed by me t
 
 ## Features
 [x] Tester has to authenticate to receive access to the allocated positions for testing
+
 [x] Tester can choose the building in which the BLE beacons are tested
+
 [x] Tester can choose the floor on which the BLE beacons are tested
+
 [x] Tester can choose the position around which the BLE beacons are tested
+
 [x] Tester can see the real-time collected BLE beacon signals
+
 [x] Tester receives the confirmation of successful test data being stored
 
 ![Happy Flow](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/happyFlow.png?raw=true)
