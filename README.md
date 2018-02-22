@@ -33,7 +33,7 @@ This particular repository contains only the code designed and developed by me t
 ![Happy Flow](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/happyFlow.png?raw=true)
 
 ## Screenshots
-<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/1Login.png" width="162" height="288" title="Login Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/2Login_Error.png"width="162" height="288" title="Login Page Error"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/3Positions_List.png" height="288" title="Positions List"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/4Test_Page.png" width="162" height="288" title="Test Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/5List_Results.png" width="162" height="288" title="List Results">
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/1Login.png" width="162" height="288" title="Login Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/2Login_Error.png" width="162" height="288" title="Login Page Error"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/3Positions_List.png" width="162" height="288" title="Positions List"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/4Test_Page.png" width="162" height="288" title="Test Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/5List_Results.png" width="162" height="288" title="List Results">
 
 ## Type of Beacon devices detected
 
@@ -60,9 +60,9 @@ This particular repository contains only the code designed and developed by me t
 * [Enzo Piacenza](https://www.linkedin.com/in/enzo-piacenza-b21706128/) for being a great mentor and guiding our projects with skill
 
 ## Contact
-[Erica Cusnariov](https://www.linkedin.com/in/ericacusnariov/) for questions about this repository
+* [Erica Cusnariov](https://www.linkedin.com/in/ericacusnariov/) for questions about this repository
 
-[Carol Davids](https://appliedtech.iit.edu/people/carol-davids) for questions about the [IIT Real-Time Communications Lab](https://appliedtech.iit.edu/rtc-lab) or the [BOSSA Platform](https://api.iitrtclab.com/)
+* [Carol Davids](https://appliedtech.iit.edu/people/carol-davids) for questions about the [IIT Real-Time Communications Lab](https://appliedtech.iit.edu/rtc-lab) or the [BOSSA Platform](https://api.iitrtclab.com/)
 
 ## License
 
