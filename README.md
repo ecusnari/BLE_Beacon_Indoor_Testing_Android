@@ -11,9 +11,7 @@ Table of contents
    * [Type of Beacon devices detected](#type-of-beacon-devices-detected)
    * [Getting Started](#getting-started)
       * [Prerequisites](#prerequisites)
-      * [Installation](#installation)
       * [Deployment](#deployment)
-   * [How to use](#how-to-use)
    * [Acknowledgements](#acknowledgements)
    * [Contact](#contact)
    * [License](#license)
@@ -25,17 +23,17 @@ The BLE Beacon Indoor Testing Application for Android is part of the bigger proj
 This particular repository contains only the code designed and developed by me to test the installed BLE beacons for correct signal transmittion, safe storage and reliable UX for the project participant conducting the tests.
 
 ## Features
-- [x] Tester has to authenticate to receive access to the allocated positions for testing
-- [x] Tester can choose the building in which the BLE beacons are tested
-- [x] Tester can choose the floor on which the BLE beacons are tested
-- [x] Tester can choose the position around which the BLE beacons are tested
-- [x] Tester can see the real-time collected BLE beacon signals
-- [x] Tester receives the confirmation of successful test data being stored
+- Tester has to authenticate to receive access to the allocated positions for testing
+- Tester can choose the building in which the BLE beacons are tested
+- Tester can choose the floor on which the BLE beacons are tested
+- Tester can choose the position around which the BLE beacons are tested
+- Tester can see the real-time collected BLE beacon signals
+- Tester receives the confirmation of successful test data being stored
 
 ![Happy Flow](https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/happyFlow.png?raw=true)
 
 ## Screenshots
-<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/1Login.png" width="216" height="384" title="Login Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/2Login_Error.png" width="216" height="384" title="Login Page Error"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/3Positions_List.png" width="216" height="384" title="Positions_List"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/4Test_Page.png" width="216" height="384" title="Test Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/5List_Results.png" width="216" height="384" title="List Results">
+<img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/1Login.png" width="162" height="288" title="Login Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/2Login_Error.png"width="162" height="288" title="Login Page Error"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/3Positions_List.png" width="162" height="288" title="Positions_List"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/4Test_Page.png" width="162" height="288" title="Test Page"> <img src="https://github.com/ecusnari/BLE_Beacon_Indoor_Testing_Android/blob/master/illustrations/screenshots/5List_Results.png" width="162" height="288" title="List Results">
 
 ## Type of Beacon devices detected
 
@@ -45,12 +43,17 @@ This particular repository contains only the code designed and developed by me t
 ## Getting Started
 
 #### Prerequisites
-
-#### Installation
+- For deployment: mobile device supporting Android OS starting from Jelly Bean 4.1(API 16) and after, supporting Bluetooth 2.0 and after.
+- For code editing:
+  * JDK 1.8 
+  * [Android Studio](https://developer.android.com/studio/index.html)
+  * [Android Beacon Library(AltBeacon)](https://altbeacon.github.io/android-beacon-library/)
+  * AXAET PC037 Bluetooth Beacons(NOTE: the major and minor signature must be modified according to your the specific beacons' UUID)
 
 #### Deployment
-
-## How to use
+* After installing Android Studio and JDK 1.8, use "gradle build" command or generate and SDK for the application
+* The SDK generated can be installed on an Android device described in [Prerequisites](#prerequisites), via direct USB transfer or donwload
+* Find in the menu the "Beacons Testing App" and click to lunch the application
 
 ## Acknowledgements
 * [Carol Davids](https://appliedtech.iit.edu/people/carol-davids) for creating this amazing project and platform
